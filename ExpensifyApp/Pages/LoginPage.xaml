@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExpensifyApp.Pages.LoginPage"
+             BackgroundImageSource="login_Background.png"
+             NavigationPage.HasBackButton="False"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid RowDefinitions="2.3*,7*" ColumnDefinitions="*,*">
+
+        <!-- Logo Section -->
+        <Image Source="logo.png" Grid.Row="0" Grid.ColumnSpan="2" HeightRequest="100" HorizontalOptions="Center" VerticalOptions="End" />
+
+        <!-- Form Section -->
+        <Grid Grid.Row="1" Grid.ColumnSpan="2" Padding="30" >
+
+            <Grid RowDefinitions="Auto,Auto,Auto,Auto,10,Auto,*" RowSpacing="5">
+                <!-- Username Label -->
+                <Label Text="Username" Grid.Row="0" FontSize="16" TextColor="Black" />
+
+                <!-- Username Entry -->
+                <Frame Grid.Row="1" Padding="10" CornerRadius="10" BorderColor="Gray" BackgroundColor="White" HeightRequest="70">
+                    <Grid ColumnDefinitions="Auto,5,*">
+                        <Image Source="user_icon.png" WidthRequest="24" HeightRequest="24" VerticalOptions="Center"/>
+                        <Entry Placeholder="Enter your username" Grid.Column="2" VerticalOptions="Center" />
+                    </Grid>
+                </Frame>
+
+                <!-- Password Label -->
+                <Label Text="Password" Grid.Row="2" FontSize="16" TextColor="Black" />
+
+                <!-- Password Entry -->
+                <Frame Grid.Row="3" CornerRadius="10" Padding="10" BorderColor="Gray" BackgroundColor="White" HeightRequest="70">
+                    <Grid ColumnDefinitions="Auto,5,*">
+                        <Image Source="password_icon.png" WidthRequest="24" HeightRequest="24" VerticalOptions="Center"  />
+                        <Entry Placeholder="Enter your password" Grid.Column="2" IsPassword="True" />
+                    </Grid>
+                </Frame>
+
+                
+                <Button Grid.Row="5" Text="Login" BackgroundColor="#10CFC9" TextColor="White" HeightRequest="40" WidthRequest="120" CornerRadius="30" />
+
+                <Image Source="piggy_bank.png" Grid.Row="6" Grid.ColumnSpan="2" HeightRequest="200" WidthRequest="400" HorizontalOptions="Center" />
+            </Grid>
+        </Grid>
+
+        <!-- Piggy Bank Image -->
+        
+    </Grid>
+</ContentPage>
