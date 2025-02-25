@@ -2,11 +2,12 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ExpensifyApp.Pages.MenuPage"
+             xmlns:local="clr-namespace:ExpensifyApp.Pages"
              BackgroundColor="White"
              NavigationPage.HasBackButton="False"
              NavigationPage.HasNavigationBar="False">
     <Grid RowDefinitions="Auto,Auto,*,Auto">
-
+        <local:Expense Grid.RowSpan="5" x:Name="ExpensePopup"/>
         <!-- Profile Section -->
         <Grid Row="0" ColumnDefinitions="Auto,*,Auto" BackgroundColor="#49A9A1">
             <Image Source="profile.png" HeightRequest="50" WidthRequest="50" Grid.Column="0" />
@@ -22,10 +23,10 @@
 
             <Grid Grid.Row="1" ColumnDefinitions="*,*,*,*" RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto" RowSpacing="5">
                 <!-- Row 1 -->
-                <ImageButton Source="food_icon.png" Grid.Row="0" Grid.Column="0" />
-                <ImageButton Source="education_icon.png" Grid.Row="0" Grid.Column="1" />
-                <ImageButton Source="travel_icon.png" Grid.Row="0" Grid.Column="2" />
-                <ImageButton Source="medicine_icon.png" Grid.Row="0" Grid.Column="3" />
+                <ImageButton Source="food_icon.png"  Grid.Row="0" Grid.Column="0"  BindingContext="Food" Clicked="OpenPopup" />
+                <ImageButton Source="education_icon.png" Grid.Row="0" Grid.Column="1"  BindingContext="Education" Clicked="OpenPopup" />
+                <ImageButton Source="travel_icon.png" Grid.Row="0" Grid.Column="2"  BindingContext="Education" Clicked="OpenPopup" />
+                <ImageButton Source="medicine_icon.png" Grid.Row="0" Grid.Column="3"  BindingContext="Medicine" Clicked="OpenPopup" />
 
                 <Label Text="Food" Grid.Row="1" Grid.Column="0" HorizontalOptions="Center" FontSize="14"/>
                 <Label Text="Education" Grid.Row="1" Grid.Column="1" HorizontalOptions="Center" FontSize="14"/>
@@ -33,11 +34,11 @@
                 <Label Text="Medicines" Grid.Row="1" Grid.Column="3" HorizontalOptions="Center" FontSize="14"/>
 
                 <!-- Row 2 -->
-                
-                <ImageButton Source="shopping_icon.png" Grid.Row="2" Grid.Column="0" />
-                <ImageButton Source="rent_icon.png" Grid.Row="2" Grid.Column="1" />
-                <ImageButton Source="entertainment_icon.png" Grid.Row="2" Grid.Column="2" />
-                <ImageButton Source="loan_icon.png" Grid.Row="2" Grid.Column="3" />
+
+                <ImageButton Source="shopping_icon.png" Grid.Row="2" Grid.Column="0"  BindingContext="Shopping" Clicked="OpenPopup" />
+                <ImageButton Source="rent_icon.png" Grid.Row="2" Grid.Column="1"  BindingContext="Rent" Clicked="OpenPopup" />
+                <ImageButton Source="entertainment_icon.png" Grid.Row="2" Grid.Column="2"  BindingContext="Entertainment" Clicked="OpenPopup" />
+                <ImageButton Source="loan_icon.png" Grid.Row="2" Grid.Column="3"  BindingContext="Loan" Clicked="OpenPopup" />
 
 
                 <Label Text="Shopping" Grid.Row="3" Grid.Column="0" HorizontalOptions="Center" FontSize="14"/>
@@ -52,6 +53,8 @@
                 <Label Text="MultiCategory" Grid.Row="6"  FontSize="14"/>
             </Grid>
         </Grid>
+
+        
 
 
         <!-- Expense Table -->
