@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpensifyApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d4ee1bf41081455219bcbecfd09287369a380152")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpensifyApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpensifyApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

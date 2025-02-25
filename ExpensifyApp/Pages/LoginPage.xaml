@@ -38,7 +38,7 @@
                 </Frame>
 
                 
-                <Button Grid.Row="5" Text="Login" BackgroundColor="#10CFC9" TextColor="White" HeightRequest="40" WidthRequest="120" CornerRadius="30" />
+                <Button Grid.Row="5" Text="Login" BackgroundColor="#10CFC9" TextColor="White" HeightRequest="40" WidthRequest="120" CornerRadius="30" x:Name="loginPage" Clicked="loginButton_Clicked" />
 
                 <Image Source="piggy_bank.png" Grid.Row="6" Grid.ColumnSpan="2" HeightRequest="200" WidthRequest="400" HorizontalOptions="Center" />
             </Grid>

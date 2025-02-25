@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ExpensifyApp\\Expensify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\expensifyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\expensifyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\database\\expensecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\database\\expensecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\helpers\\apploadactivityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\helpers\\apploadactivityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\helpers\\permissionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\helpers\\permissionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\helpers\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\helpers\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|d:\\expensifyapp\\expensify\\expensifyapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383C4888-4121-4C6C-B820-E7CD50D98779}|ExpensifyApp\\ExpensifyApp.csproj|solutionrelative:expensifyapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseContext.cs",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\DataBase\\ExpenseContext.cs",
+              "RelativeDocumentMoniker": "ExpensifyApp\\DataBase\\ExpenseContext.cs",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\DataBase\\ExpenseContext.cs",
+              "RelativeToolTip": "ExpensifyApp\\DataBase\\ExpenseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:21:14.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppLoadActivityHelper.cs",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Helpers\\AppLoadActivityHelper.cs",
+              "RelativeDocumentMoniker": "ExpensifyApp\\Helpers\\AppLoadActivityHelper.cs",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Helpers\\AppLoadActivityHelper.cs",
+              "RelativeToolTip": "ExpensifyApp\\Helpers\\AppLoadActivityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:17:37.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIHelper.cs",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Helpers\\UIHelper.cs",
+              "RelativeDocumentMoniker": "ExpensifyApp\\Helpers\\UIHelper.cs",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Helpers\\UIHelper.cs",
+              "RelativeToolTip": "ExpensifyApp\\Helpers\\UIHelper.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:14:10.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermissionHelper.cs",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Helpers\\PermissionHelper.cs",
+              "RelativeDocumentMoniker": "ExpensifyApp\\Helpers\\PermissionHelper.cs",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Helpers\\PermissionHelper.cs",
+              "RelativeToolTip": "ExpensifyApp\\Helpers\\PermissionHelper.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAswAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:12:55.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ExpensifyApp\\App.xaml.cs",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\App.xaml.cs",
+              "RelativeToolTip": "ExpensifyApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:22:53.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpensifyApp.csproj",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\ExpensifyApp.csproj",
+              "RelativeDocumentMoniker": "ExpensifyApp\\ExpensifyApp.csproj",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\ExpensifyApp.csproj",
+              "RelativeToolTip": "ExpensifyApp\\ExpensifyApp.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvz4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T05:32:46.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExpensifyApp\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "ExpensifyApp\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:29:24.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuPage.xaml.cs",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Pages\\MenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExpensifyApp\\Pages\\MenuPage.xaml.cs",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Pages\\MenuPage.xaml.cs",
+              "RelativeToolTip": "ExpensifyApp\\Pages\\MenuPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:26:59.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Pages\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "ExpensifyApp\\Pages\\MenuPage.xaml",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Pages\\MenuPage.xaml",
+              "RelativeToolTip": "ExpensifyApp\\Pages\\MenuPage.xaml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T05:25:39.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "ExpensifyApp\\Pages\\LoginPage.xaml",
+              "ToolTip": "D:\\ExpensifyApp\\Expensify\\ExpensifyApp\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "ExpensifyApp\\Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T13:55:19.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
